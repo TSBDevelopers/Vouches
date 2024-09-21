@@ -1,10 +1,10 @@
 ---
-name: Vouching!
-about: Paid users will vouch here without risking getting banned.
+name: Discord
+about: Wild horses islands paid script
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-### Yeee'
+### join the discord here : discord.gg/tsbhub
